@@ -74,9 +74,6 @@ export default function Navbar({ onOpenBookingModal, onOpenRoomModal }) {
               v1.0
             </Tag>
           </div>
-          <div style={{ fontSize: 11, color: '#64748b', fontWeight: 500, lineHeight: 1 }}>
-            Hotel Front Desk & Booking System
-          </div>
         </div>
       </div>
 
